@@ -1,0 +1,19 @@
+ex05
+
+tres bien
+consultez mes changements
+
+La structure de répertoires n'est pas correcte:
+ex05
+  ex05
+-->
+ex05
+
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+Fonction.dart
+-->
+fonction.dart
+
+bool check_letter(texte) {
+-->
+bool check_letter(String texte) {
